@@ -1,5 +1,4 @@
-Saludo a la primera Generación de Python wuuu!!
-
-Git & GitHub
-
-Ejercicio
+Clase 1: Git & GitHub
+¡Hola Koders!
+Saludos primera Generación de Python wuuu!!
+:)
