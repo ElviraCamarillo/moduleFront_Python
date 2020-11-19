@@ -1,3 +1,5 @@
 Saludo a la primera Generación de Python wuuu!!
 
 Git & GitHub
+
+Ejercicio
