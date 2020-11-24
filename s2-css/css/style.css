@@ -7,10 +7,12 @@
 
 header,nav,aside,article,main,footer {
     padding: 5px;
+    border-radius: 5px;
 }
 
 header,nav,main,footer {
     color: white;
+    border-radius: 5px;
 }
 
 header {
@@ -51,6 +53,7 @@ article{
     height:70px;
     color: black;
     margin-bottom: 10px;
+    margin-top: 10px
 }
 
 footer {
